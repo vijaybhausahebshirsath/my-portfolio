@@ -1,4 +1,4 @@
-# Yatharth Mishra | Full Stack & Cloud Engineer - Portfolio
+# Vijay Shirsath | Full Stack & Cloud Engineer - Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my professional experience, skills, and featured projects in GenAI, cloud infrastructure, and full-stack development.
 
